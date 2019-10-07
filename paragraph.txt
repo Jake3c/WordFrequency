@@ -1,0 +1,2 @@
+A simple opening paragraph that demonstrates an example of something that someone might want to do a word frequencty count on.
+This paragraph of plain text can include numbers such as 3, 4, 7, and 3, as well as commas, periods, or other punctuation marks.
